@@ -1,5 +1,5 @@
 #Reverse of a Number
-num = int (input("Enter a number:"))
+num = int (input("123456789"))
 rev = 0
 temp = num
 while(num!=0):
